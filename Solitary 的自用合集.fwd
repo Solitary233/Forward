@@ -1,6 +1,7 @@
 {
-  "title":"Solitary233的自用合集",
-  "icon": "https://raw.githubusercontent.com/Solitary233/Forward/refs/heads/main/settings.svg",
+  "title":"Solitary's widgets",
+  "description": "A collection of using widgets",
+  "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
   "widgets":[
   {
       "author":"阿米诺斯",
