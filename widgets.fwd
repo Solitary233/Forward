@@ -40,6 +40,33 @@
       "url":"https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
     },
     {
+      "author": "huangxd",
+      "id": "zhuijurili",
+      "title": "追剧日历(今/明日播出、各项榜单、今日推荐)",
+      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+    },
+    {
+      "author":"huangxd",
+      "id":"live",
+      "title":"直播(电视+网络)",
+      "requiredVersion":"0.0.1",
+      "version":"1.0.8",
+      "description":"解析直播订阅链接",
+      "url":"https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
+    },
+    {
+      "author": "huangxd",
+      "id": "letterboxd",
+      "title": "Letterboxd电影爱好者平台",
+      "description": "解析Letterboxd片单内的影片",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
+    },
+    {
       "author":"两块",
       "id":"hot_picks",
       "title":"热门精选",
@@ -47,6 +74,33 @@
       "version":"1.1.4",
       "description":"获取最新热播剧和热门影片推荐",
       "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
+    },
+    {
+      "author":"两块",
+      "id":"movie_paradise",
+      "title":"在线影院",
+      "requiredVersion":"0.0.1",
+      "version":"1.0.0",
+      "description":"获取在线电影、电视剧、动漫、综艺和短剧",
+      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
+    },
+    {
+      "author":"两块",
+      "id":"tv_live",
+      "title":"电视台",
+      "requiredVersion":"0.0.1",
+      "version":"1.0.1",
+      "description":"获取热门电视直播频道",
+      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
+    },
+    {
+      "author":"两块",
+      "id":"ddys_tv",
+      "title":"低端影视",
+      "requiredVersion":"0.0.1",
+      "version":"1.0.0",
+      "description":"获取在线电影、电视剧、动漫",
+      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
     },
     {
       "author":"Autism",
@@ -103,33 +157,6 @@
       "url":"https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
     },
     {
-      "author":"两块",
-      "id":"movie_paradise",
-      "title":"在线影院",
-      "requiredVersion":"0.0.1",
-      "version":"1.0.0",
-      "description":"获取在线电影、电视剧、动漫、综艺和短剧",
-      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
-    },
-    {
-      "author":"huangxd",
-      "id":"live",
-      "title":"直播(电视+网络)",
-      "requiredVersion":"0.0.1",
-      "version":"1.0.8",
-      "description":"解析直播订阅链接",
-      "url":"https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
-    },
-    {
-      "author":"两块",
-      "id":"tv_live",
-      "title":"电视台",
-      "requiredVersion":"0.0.1",
-      "version":"1.0.1",
-      "description":"获取热门电视直播频道",
-      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
-    },
-    {
       "author":"Ti",
       "id":"ti.bemarkt.podcast",
       "title":"Podcast",
@@ -139,13 +166,22 @@
       "url":"https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     },
     {
-      "id": "zhuijurili",
-      "title": "追剧日历(今/明日播出、各项榜单、今日推荐)",
-      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+      "author": "Ti",
+      "id": "ti.bemarkt.javday",
+      "title": "JAVDay",
+      "description": "获取 JAVDay 推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.0.3",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js"
+    },
+    {
+      "author": "Ti",
+      "id": "ti.bemarkt.javrate",
+      "title": "JAVRate",
+      "description": "获取 JAVRate 推荐",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.0",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
     },
     {
       "author":"nibiru",
@@ -155,24 +191,6 @@
       "version":"1.0.7",
       "description":"获取 Jable 视频",
       "url":"https://gist.githubusercontent.com/huangxd-/37aaa8cca9b888b2bed278e83d4432d9/raw/jable.js"
-    },
-    {
-      "id": "ti.bemarkt.javday",
-      "title": "JAVDay",
-      "description": "获取 JAVDay 推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.1.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js"
-    },
-    {
-      "id": "ti.bemarkt.javrate",
-      "title": "JAVRate",
-      "description": "获取 JAVRate 推荐",
-      "requiredVersion": "0.0.1",
-      "version": "2.1.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
     },
     {
       "author":"Baran",
@@ -191,24 +209,6 @@
       "version":"1.0.0",
       "description":"根据Keyword,用于VOD",
       "url":"https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"
-    },
-    {
-      "author":"两块",
-      "id":"ddys_tv",
-      "title":"低端影视",
-      "requiredVersion":"0.0.1",
-      "version":"1.0.0",
-      "description":"获取在线电影、电视剧、动漫",
-      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
-    },
-    {
-      "id": "letterboxd",
-      "title": "Letterboxd电影爱好者平台",
-      "description": "解析Letterboxd片单内的影片",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
     },
     {
       "author":"海带",
