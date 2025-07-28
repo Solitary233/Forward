@@ -103,6 +103,15 @@
       "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
     },
     {
+      "author":"两块",
+      "id":"cloud_cinema",
+      "title":"云端影视",
+      "requiredVersion":"0.0.1",
+      "version":"1.1.001",
+      "description":"获取在线云端在线资源",
+      "url":"https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/CloudCinema.js"
+    },
+    {
       "author":"Autism",
       "id":"bangumi_charts_tmdb_v3",
       "title":"Bangumi 热门榜单",
