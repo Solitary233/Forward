@@ -3,7 +3,7 @@
   "description": "A collection of using widgets",
   "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
   "widgets":[
-  {
+    {
       "author":"阿米诺斯",
       "id":"forward.combined.media.lists",
       "title":"影视榜单",
