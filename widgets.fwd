@@ -4,15 +4,6 @@
   "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
   "widgets":[
     {
-      "author":"阿米诺斯",
-      "id":"forward.combined.media.lists",
-      "title":"影视榜单",
-      "requiredVersion":"0.0.1",
-      "version":"1.3.0",
-      "description":"聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
-      "url":"https://raw.githubusercontent.com/Solitary233/Forward/refs/heads/main/YSBD.js"
-    },
-    {
       "id": "forward.auto.danmu",
       "title": "自动链接弹幕",
       "description": "自动获取播放链接并从服务器获取弹幕",
