@@ -220,6 +220,15 @@
       "url":"https://gist.githubusercontent.com/huangxd-/37aaa8cca9b888b2bed278e83d4432d9/raw/jable.js"
     },
     {
+      "author":"𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
+      "id":"missav",
+      "title":"MissAV",
+      "requiredVersion":"0.0.2",
+      "version":"1.0.0",
+      "description":"获取 MissAV 推荐",
+      "url":"https://raw.githubusercontent.com/Solitary233/Forward/refs/heads/main/MissAV.js"
+    },
+    {
       "author":"Baran",
       "id":"91porn",
       "title":"91Porn",
